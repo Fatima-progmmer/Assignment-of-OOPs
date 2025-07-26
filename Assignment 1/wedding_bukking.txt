@@ -1,0 +1,10 @@
+
+			New order are PLACED 
+Event estimate for  
+Date of the ceremony : 12
+Number of guests : 600
+The Cost for Food is: 12420
+Total cost is: 22420
+Tables are used :60
+Please deposite a 25% deposit to reserve the event
+The deposit needed is: 11210
